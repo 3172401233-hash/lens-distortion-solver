@@ -1,0 +1,13 @@
+{
+  "name": "lens-distortion-solver",
+  "version": "1.0.0",
+  "description": "镜头畸变正向投影与逆向迭代求解库（Brown-Conrady 与可配置鱼眼模型）",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
